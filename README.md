@@ -9,4 +9,7 @@ Four key sections
      -> this process is detailed in extract_all_features_from_file_list.m
    
 4. Build regionally specific age predictions across all available regions
-5. Analysis & Plotting
+
+     -> this process is details in do_all_iteration_for_github.m and will use the inputs in the all_data.mat file soted in the supporting_mat_files directory, this contains EEG features and PMA, not raw EEG recordings.
+   
+6. Analysis & Plotting
